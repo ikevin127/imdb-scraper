@@ -3,7 +3,7 @@
 # imdb-scraper
 > A simple Node.js IMDb Title Scraper
 
-Don't know how to use Node.js? Try my [demo API](https://spleeter.co.uk/).
+Don't know how to use Node.js? Try my [demo API](https://inkthatquote.com/).
 
 ## :cloud: Installation
 
