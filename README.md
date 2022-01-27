@@ -3,7 +3,7 @@
 # imdb-scraper
 > A simple Node.js IMDb Title Scraper
 
-Don't know how to use Node.js? Try my <a href="https://inkthatquote.com/" target="_blank">live demo API</a>.
+Don't know how to use Node.js? Try my <a href="https://18.168.213.34.nip.io/" target="_blank">live demo API</a>.
 
 ## :cloud: Installation
 
@@ -69,4 +69,4 @@ Don't know how to use Node.js? Try my <a href="https://inkthatquote.com/" target
 
 ## :scroll: License
 
-MIT © BADERproductions
+MIT © [BADERproductions](https://baderproductions.co.uk/)
